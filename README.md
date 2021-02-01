@@ -1,0 +1,2 @@
+# DigitalOcean
+Static Apps
